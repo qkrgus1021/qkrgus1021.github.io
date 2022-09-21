@@ -2,10 +2,12 @@
 main:
   #- title: "About"
   #  url: s/quick-start-guide/
-   - title: "Study"
+   - title: "Algorithm"
      url: "/algorithm/"
    - title: "Hacks"
      url : "/hacks/"
+   - title: "Study"
+     url : "/studys/"
   #- title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
