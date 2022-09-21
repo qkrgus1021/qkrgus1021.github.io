@@ -8,6 +8,8 @@ main:
      url : "/hacks/"
    - title: "Study"
      url : "/studys/"
+   - title: "Categories"
+     url : /categories/
   #- title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
