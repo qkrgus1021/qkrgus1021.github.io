@@ -2,12 +2,12 @@
 main:
   #- title: "About"
   #  url: s/quick-start-guide/
-   - title: "Algorithm"
-     url: "/algorithm/"
-   - title: "Hacks"
-     url : "/hacks/"
-   - title: "Study"
-     url : "/studys/"
+  # - title: "Algorithm"
+  #   url: "/algorithm/"
+  # - title: "Hacks"
+  #   url : "/hacks/"
+  # - title: "Study"
+  #   url : "/studys/"
    - title: "Categories"
      url : /categories/
   #- title: "About"
