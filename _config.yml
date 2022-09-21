@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "UTF-8" , "ko" , "en-US"
+locale                   : "UTF-8"
 title                    : "P's vlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
